@@ -1,1 +1,1 @@
-#In this prioject we're gonna learn a litle it avout git and gitguv#
+#In this project we're gonna learn the basics of git and github#
